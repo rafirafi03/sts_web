@@ -16,7 +16,7 @@
   --font-head: "Urbanist Variable", "Urbanist", "Helvetica Neue", Arial, sans-serif;
   --font-body: "Urbanist Variable", "Urbanist", "Helvetica Neue", Arial, sans-serif;
 
-  --wrap: 1200px;
+  --wrap: 1320px;
   --gutter: clamp(1.25rem, 4vw, 2.5rem);
   --space-section: clamp(4rem, 9vw, 7rem);
   --radius: 10px;

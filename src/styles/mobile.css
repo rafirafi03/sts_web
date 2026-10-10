@@ -457,14 +457,8 @@
   }
 
   .cap-nav {
-    position: sticky;
-    top: 4.6rem;
-    z-index: 5;
     margin-inline: calc(var(--gutter) * -1);
-    padding: 0.75rem var(--gutter);
-    background: rgba(255, 255, 255, 0.96);
-    border-bottom: 1px solid var(--rule);
-    backdrop-filter: blur(8px);
+    padding: 0 var(--gutter);
   }
 
   .cap-nav ul {
