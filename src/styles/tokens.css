@@ -1,0 +1,26 @@
+:root {
+  --ink: #0b1a33;
+  --navy: #061733;
+  --navy-2: #0b2a5c;
+  --paper: #f1f3f7;
+  --white: #ffffff;
+  --steel: #4a5468;
+  --rule: #c9d3e3;
+  --blue: #1450a3;
+  --blue-dark: #0e3d80;
+  --orange: #ff7a00;
+  --orange-dark: #e66a00;
+
+  --grad-navy: linear-gradient(160deg, #061733 0%, #0b2a5c 55%, #1450a3 100%);
+
+  --font-head: "Urbanist Variable", "Urbanist", "Helvetica Neue", Arial, sans-serif;
+  --font-body: "Urbanist Variable", "Urbanist", "Helvetica Neue", Arial, sans-serif;
+
+  --wrap: 1200px;
+  --gutter: clamp(1.25rem, 4vw, 2.5rem);
+  --space-section: clamp(4rem, 9vw, 7rem);
+  --radius: 10px;
+  --pill: 999px;
+  --cut: clamp(2.25rem, 6vw, 4.5rem);
+  --header-h: 6rem;
+}
